@@ -11,6 +11,7 @@
 
     onMount(() => {
         fetchData();
+        console.log("Hello")
     } )
 
 </script>
