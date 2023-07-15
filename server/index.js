@@ -2,7 +2,6 @@ import express from 'express'
 import cors from 'cors'
 import bodyParser from 'body-parser';
 import cookieParser from 'cookie-parser';
-import { displayProblem } from './Controllers/userController.js';
 import router from './Routes/routes.js'
 
 
